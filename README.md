@@ -1,5 +1,7 @@
 # Total Attachments Downloaded Extension
 
+[![Build Status](https://travis-ci.org/dmzx/Total-attachments-downloaded.svg?branch=master)](https://travis-ci.org/dmzx/Total-attachments-downloaded)
+
 ## Install
 
 1. Download the latest release.

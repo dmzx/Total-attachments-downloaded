@@ -9,9 +9,6 @@
 
 namespace dmzx\totalattdownloaded\event;
 
-/**
-* @ignore
-*/
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 
 /**
